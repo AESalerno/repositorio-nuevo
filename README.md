@@ -1,2 +1,1 @@
-# repositorio-nuevo
-repositorio de prueba 2
+Creando repositorio y clonando desde github a pc
